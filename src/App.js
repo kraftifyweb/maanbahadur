@@ -1,6 +1,6 @@
 import './App.css';
-import Foot from './Comp/Foot/Foot';
-import Head from './Comp/Head/Head';
+import Foot from './Comp/Foot/Foot.jsx';
+import Head from './Comp/Head/Head.jsx';
 
 function App() {
   return (
@@ -9,6 +9,7 @@ function App() {
       <header className="App-header">
         <h1>Maan Bahadur Bohara</h1>
         <h2>i am from nepal</h2>
+        <h3>bbb</h3>
       </header>
       <Foot />
     </div>
