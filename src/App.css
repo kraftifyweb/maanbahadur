@@ -1,6 +1,7 @@
 .App{
   background-color: black;
   min-height: auto;
+  color: aliceblue;
 }
 .animate__animated{
   color: aliceblue;
