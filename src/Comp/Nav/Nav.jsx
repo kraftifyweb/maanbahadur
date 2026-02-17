@@ -6,10 +6,10 @@ function Nav() {
   return (
     <div className='nav'>
         <ol>
-            <li><Link to='/'>Home</Link></li>
-            <li><Link to='/projects'>Projects</Link></li>
-            <li><Link to='/gallery'>Gallery</Link></li>
-            <li><Link to='/contact'>Contact Me</Link></li>
+            <li><Link className='nav-link' to='/'>Home</Link></li>
+            <li><Link className='nav-link' to='/projects'>Projects</Link></li>
+            <li><Link className='nav-link' to='/gallery'>Gallery</Link></li>
+            <li><Link className='nav-link' to='/contact'>Contact Me</Link></li>
         </ol>
     </div>
   )

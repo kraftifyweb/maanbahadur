@@ -1,4 +1,5 @@
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Foot from './Comp/Foot/Foot.jsx';
 import Head from './Comp/Head/Head.jsx';
 import 'animate.css/animate.min.css';
