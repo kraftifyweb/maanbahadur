@@ -33,8 +33,8 @@ function Contact() {
       </Row>
 
       <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
-        <Form.Label>Example textarea</Form.Label>
-        <Form.Control as="textarea" rows={3} />
+        <Form.Label>Enter Your Message</Form.Label>
+        <Form.Control as="textarea" rows={3} placeholder="Enter Your Message"/>
       </Form.Group>
 
       <Form.Group className="mb-3" id="formGridCheckbox">
