@@ -4,7 +4,7 @@ import Foot from './Comp/Foot/Foot.jsx';
 import Head from './Comp/Head/Head.jsx';
 import 'animate.css/animate.min.css';
 import Top from './Comp/Top/Top.jsx';
-import Nav from './Comp/Nav/Nav.jsx';
+import Navi from './Comp/Nav/Nav.jsx';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from './Comp/Home/Home.jsx';
 import Gallery from './Comp/Gallery/Gallery.jsx';
@@ -18,7 +18,7 @@ function App() {
       
       <BrowserRouter>
       <Top />
-      <Nav />
+      <Navi />
       <Routes className="App"> 
         <Route path='/' element={<Home />} />
         <Route path='/projects' element={<Projects />} />

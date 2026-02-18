@@ -1,9 +1,3 @@
-.nav{
-    background-color: aqua;
-    margin: 0;
-    padding: 40px;
-    font-size: medium;
-}
 ol{
     display: flex;
     justify-content: space-between;
