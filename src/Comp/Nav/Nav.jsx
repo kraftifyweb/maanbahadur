@@ -7,8 +7,8 @@ import './nav.css';
 
 function Navi() {
   return (
-    <div>
-    <Navbar expand="lg" className="bg-body-tertiary">
+    <div className='nav'>
+    <Navbar expand="lg" className="bg-body-warning">
       <Container fluid>
         <Link to="/" className='brand-link'>Home</Link>
         <Navbar.Toggle aria-controls="navbarScroll" />
@@ -20,7 +20,7 @@ function Navi() {
           >
             <Link to="/projects" className='nav-link'>Projects</Link>
             <Link to="/gallery" className='nav-link'>Gallery</Link>
-            <Link to="/contact" className='nav-link' disabled>
+            <Link to="/contact" className='nav-link'>
               Contact Me
             </Link>
           </Nav>
