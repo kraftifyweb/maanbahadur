@@ -7,7 +7,7 @@ function Home() {
       <p>
         I am from nepal <br></br>i live in mahendrnagar nepal
       </p>
-      <br />
+      <br /><br></br>
       <p>
         Mahendranagar, officially named Bhimdatta, is the 9th largest city in
         Nepal, located 5 km from the Indian border and 700 km west of Kathmandu.
@@ -20,17 +20,17 @@ function Home() {
         Renaming: While popularly known as Mahendranagar in honor of the late
         King Mahendra, the municipality was renamed Bhimdatta in 2008 to honor
         local farmer leader Bhimdatta Panta. 
-        <br></br>
+        <br></br><br></br>
         Attractions: Key tourist spots
         include Shuklaphanta National Park (famous for swamp deer and tigers),
         Bedkot Lake, Jhilmila Lake, and the 1,456-meter Mahakali suspension
         bridge. 
-        <br></br>
+        <br></br><br></br>
         Education: It is home to Far-western University. 
-        <br></br>
+        <br></br><br></br>
         Accessibility:
         The nearest airport is Dhangadhi Airport (approx. 48 km away). 
-        <br></br>
+        <br></br><br></br>
         Another Location: There is also a small town named Mahendranagar in the Dhanusha
         District of Nepal, known for its cattle market
       </p>
