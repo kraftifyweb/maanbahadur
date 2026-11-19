@@ -45,6 +45,11 @@ function Contact() {
         Submit
       </Button>
     </Form>
+    <div>
+       <h1>Address</h1>
+       <br></br><br></br>
+       <h2>Current Address :  414, 1st floor, 7th Main Rd, HRBR Layout 1st Block, HRBR Layout, Banaswadi, Bengaluru, Karnataka 560043</h2>
+    </div>
   );
 }
 
