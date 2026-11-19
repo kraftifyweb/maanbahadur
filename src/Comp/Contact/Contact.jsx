@@ -48,9 +48,9 @@ function Contact() {
     </Form>
     <div className="con1">
       <h1>Adress</h1>
-      <br></br><br></br>
+      <br></br>
       <h3> 414, 1st floor, 7th Main Rd, HRBR Layout 1st Block, HRBR Layout, Banaswadi, Bengaluru, Karnataka 560043</h3>
-      <h1> Contact Number</h1> <br></br>
+      <br></br><br></br><h1> Contact Number</h1> <br></br>
       <h3>63632653XX</h3>
     </div>
     </>
