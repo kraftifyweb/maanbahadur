@@ -16,21 +16,21 @@ function Home() {
         Chandani suspension bridge. Wikipedia Wikipedia +1 Key details about
         Mahendranagar: Location: Situated in the Sudurpashchim Province, it
         serves as a major entry point from India via the Banbasa Barrage.
-        
+        <br></br>
         Renaming: While popularly known as Mahendranagar in honor of the late
         King Mahendra, the municipality was renamed Bhimdatta in 2008 to honor
         local farmer leader Bhimdatta Panta. 
-        
+        <br></br>
         Attractions: Key tourist spots
         include Shuklaphanta National Park (famous for swamp deer and tigers),
         Bedkot Lake, Jhilmila Lake, and the 1,456-meter Mahakali suspension
         bridge. 
-        
+        <br></br>
         Education: It is home to Far-western University. 
-        
+        <br></br>
         Accessibility:
         The nearest airport is Dhangadhi Airport (approx. 48 km away). 
-        
+        <br></br>
         Another Location: There is also a small town named Mahendranagar in the Dhanusha
         District of Nepal, known for its cattle market
       </p>
