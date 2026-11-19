@@ -7,6 +7,7 @@ import './form.css'
 
 function Contact() {
   return (
+    <>
     <Form className='form'>
       <Row className="mb-3">
         <Form.Group as={Col} controlId="formGridEmail">
@@ -45,7 +46,12 @@ function Contact() {
         Submit
       </Button>
     </Form>
-    
+    <div>
+      <h1>Adress</h1>
+      <br></br><br></br>
+      <h3> 414, 1st floor, 7th Main Rd, HRBR Layout 1st Block, HRBR Layout, Banaswadi, Bengaluru, Karnataka 560043</h3>
+    </div>
+    </>
   );
 }
 
